@@ -15,10 +15,9 @@ search this and turn on it:
 ![image](https://github.com/user-attachments/assets/8ede3a8f-a608-4598-81bb-ba9569c0bfcf)
 
 
-4. next copy script from
-https://github.com/Matelko345/ParadiseBot_Help/blob/main/script.txt
+4. next copy script 
 
-5. open paradisetap and do this if menu not working type in console "allow pasting"
+5. open application and do this if menu not working type in console "allow pasting"
 
 https://github.com/user-attachments/assets/0adc113c-803b-429c-ad9e-8d0c4ce7cf83
 
