@@ -1,4 +1,4 @@
-# ParadiseBot_Help
+# AirdropsLiftHelp
 
 1. Download
 Ayugram (https://t.me/ayugramchat/12788)
