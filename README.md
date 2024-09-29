@@ -17,5 +17,6 @@ search this and turn on it:
 https://github.com/Matelko345/ParadiseBot_Help/blob/main/script.txt
 
 5. open paradisetap and do this if menu not working type in console "allow pasting"
+
 https://github.com/user-attachments/assets/0adc113c-803b-429c-ad9e-8d0c4ce7cf83
 
